@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <!-- 语言统计 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carl224&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 项目模板 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arl224&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arl224&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
