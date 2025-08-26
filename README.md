@@ -30,8 +30,7 @@
 ---
 
 🌃 **联系我**  
-- ✉️ 邮箱：yourmail@example.com  
-- 🌐 网站：[yourdomain.com](http://yourdomain.com)  
+- ✉️ 邮箱：qinzforcarl@gmail.com  
 
 ---
 
@@ -41,3 +40,8 @@
 - `发光分隔线` → 用渐变图片代替 Markdown `---`  
 - `合成波城市剪影` → Neon 风格 banner 图（可放在顶部）  
 - `代码雨 GIF` → 插入 Matrix 风格动态背景  
+
+<!-- 动态终端 GIF 效果 -->
+<div align="center">
+  ![Cyberpunk Terminal](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+</div>
