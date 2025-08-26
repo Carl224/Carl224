@@ -42,6 +42,6 @@
 - `代码雨 GIF` → 插入 Matrix 风格动态背景  
 
 <!-- 动态终端 GIF 效果 -->
-<div align="center">
-  ![Cyberpunk Terminal](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-</div>
+
+![Cyberpunk Terminal](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
