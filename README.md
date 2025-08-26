@@ -95,6 +95,9 @@
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+</td></tr>
+
 ### 📊 WakaTime
 
 <picture>
@@ -108,8 +111,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Carl224&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
-
-</td></tr>
 
 <tr><td>
 <div align="center">
