@@ -1,27 +1,3 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**Carl224/Carl224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carl224&show_icons=true&theme=radical) -->
-<!-- 语言统计 -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carl224&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- 项目模板 -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arl224&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
 <!-- 动态标题 -->
 <h1 align="center">Hi 👋, I'm Qin Zifang</h1>
 <h3 align="center">A passionate developer from China</h3>
