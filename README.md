@@ -34,14 +34,14 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的ID&show_icons=true&theme=radical)  
 
 <!-- 动态终端输出 -->
-<div align="center">
-  ![Cyberpunk Terminal](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-</div>
+
+![Cyberpunk Terminal](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
 
 <!-- 代码雨 GIF -->
-<div align="center">
-  ![Matrix Rain](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
-</div>
+
+![Matrix Rain](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
+
 
 <!-- 联系方式 -->
 🌃 **联系我**  
